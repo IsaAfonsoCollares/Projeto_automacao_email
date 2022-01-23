@@ -1,0 +1,3 @@
+Projeto de automação para criação de relatório de vendas e envio de análise por e-mail. 
+Código em linguagem python, utilizando as bibliotecas pyautogui, time e pyperclip para automatizar o processo de download da tabela base, armazenada no Google Drive, e para o envio de um relatório por e-mail, incluindo informações retiradas da mesma e que foram obtidas por meio de análises feitas com a biblioteca Pandas.
+Em razão da bibliotecas pyautogui utilizar coordenadas para encontrar elementos na tela, é necessário que se adapte este código para diferentes tamanhos de monitores e sistemas operacionais.
